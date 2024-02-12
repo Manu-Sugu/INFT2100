@@ -1,0 +1,17 @@
+Dear manu.sugunakumar@dcmail.ca,
+
+We recieved a request to reset the password on your account. To reset the password please follow the following link provided below.
+
+ https://opentech.durhamcollege.org/inft2100/sugunakumarm/lab4/change_password.php
+Sign out Success at 2023-12-03 16:51:32 User  Sign out .
+Sign in Success at 2023-12-03 16:51:51 User manu.sugunakumar@dcmail.ca Sign in .
+Sign out Success at 2023-12-03 20:49:01 User  Sign out .
+Sign in Failed at 2023-12-03 20:49:05 User john.smith@dcmail.ca Sign in .
+Sign in Failed at 2023-12-03 20:49:44 User john.smith@dcmail.ca Sign in .
+Sign in Failed at 2023-12-03 20:49:49 User john.smith@dcmail.ca Sign in .
+Sign in Success at 2023-12-03 20:49:54 User manu.sugunakumar@dcmail.ca Sign in .
+Sign out Success at 2023-12-03 20:50:00 User  Sign out .
+Sign in Success at 2023-12-03 20:50:04 User john.smith@dcmail.ca Sign in .
+Sign out Success at 2023-12-03 20:50:11 User  Sign out .
+Sign in Success at 2023-12-03 20:50:15 User manu.sugunakumar@dcmail.ca Sign in .
+Sign out Success at 2023-12-03 20:51:40 User  Sign out .

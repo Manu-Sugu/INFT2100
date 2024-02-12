@@ -1,0 +1,12 @@
+Sign inSuccess at 2023-09-23 21:45:42 User manu.sugunakumar@dcmail.ca Sign in.
+Sign outSuccess at 2023-09-23 21:47:17 User  Sign out.
+Sign inSuccess at 2023-09-23 21:47:32 User manu.sugunakumar@dcmail.ca Sign in.
+Sign outSuccess at 2023-09-23 21:47:35 User  Sign out.
+Sign inSuccess at 2023-09-23 23:42:11 User jdoe@dcmail.ca Sign in.
+Sign outSuccess at 2023-09-23 23:42:16 User  Sign out.
+Sign inSuccess at 2023-09-23 23:43:54 User jdoe@dcmail.ca Sign in.
+Sign outSuccess at 2023-09-23 23:43:56 User  Sign out.
+Sign inSuccess at 2023-09-23 23:48:54 User jdoe@dcmail.ca Sign in.
+Sign outSuccess at 2023-09-23 23:48:55 User  Sign out.
+Sign inSuccess at 2023-09-23 23:49:35 User manu.sugunakumar@dcmail.ca Sign in.
+Sign outSuccess at 2023-09-23 23:49:36 User  Sign out.
